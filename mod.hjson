@@ -1,0 +1,8 @@
+name: "automatic mod updater"
+displayName: "automatic mod updater"
+author: "L0615T1C5.216AC#9437"
+main: "automaticModUpdater.amu"
+description: "N/A"
+version: 1.5
+minGameVersion: 129
+hidden: true
